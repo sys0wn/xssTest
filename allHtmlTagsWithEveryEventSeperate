@@ -97,7 +97,7 @@
 <a onsuspend=1>a</a>
 <a ontimeupdate=1>a</a>
 <a ontoggle=1>a</a>
-<a popover=1)=1>a</a>
+<a popover=1>a</a>
 <a ontouchend=1>a</a>
 <a ontouchmove=1>a</a>
 <a ontouchstart=1>a</a>
